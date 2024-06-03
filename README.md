@@ -2,4 +2,4 @@
 
 My keybinds for the incredible MacOS [Loop](https://github.com/MrKai77/Loop) window management app.
 
-Uses a three column layout.
+Uses a three column layout. Speed instant, disable cursor interaction.
